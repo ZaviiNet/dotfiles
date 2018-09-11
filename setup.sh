@@ -37,8 +37,3 @@ chmod +x ./marsh-setup.sh
  cd $HOME/dotfiles
  chmod +x ./doom-setup.sh
 ./doom-setup.sh
-
-# -------------------------------------
-# Setup bluetooth
-# -------------------------------------
-wget https://bogdziewicz.xyz/files/pchip/bt.py
